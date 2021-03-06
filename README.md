@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **JavaScript, Python**
 
-- 📝 My blog page: [shikhar06.medium.com](shikhar06.medium.com)
+- 📝 My blog page: [shikhar06](shikhar06.medium.com)
 
 - 📫 Reach me at: **shikhar06jan@gmail.com**
 
