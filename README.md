@@ -5,7 +5,7 @@
 
 <h3> 💻 About Me </h3>
 
-- 🌱 I’m currently learning: **JavaScript, Python**
+- 🌱 I’m currently learning: **JavaScript, Python, Machine Learning and AI**
 
 - 📝 My blog page: [shikhar06](shikhar06.medium.com)
 
