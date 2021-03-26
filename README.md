@@ -6,7 +6,7 @@
 <h3> About Me 💻  </h3>
 
 - 🌱 I’m currently learning: **JavaScript, Python, Machine Learning and AI**
-- 🤝🏻 I’m looking to collaborate on **Open Source Projects**
+- 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
 - 📝 My blog page: [shikhar06](https://shikhar06.medium.com)
 
