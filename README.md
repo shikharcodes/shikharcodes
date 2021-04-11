@@ -9,6 +9,8 @@
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
+- 🎓 I'm studying Computer Science & Engineering.
+
 - 👨🏻‍🎨 I'm also a UI/UX designer trying out my hands on creating stuff. 
 
 - 📝 My blog page: [shikhar06](https://shikhar06.medium.com)
