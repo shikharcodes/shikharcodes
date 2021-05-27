@@ -5,7 +5,7 @@
 
 <h3> About Me 💻  </h3>
 
-- 🌱 I’m currently learning: **JavaScript, Python, Machine Learning and AI**
+- 🌱 I’m currently learning: **JavaScript, Python and Machine Learning**
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
