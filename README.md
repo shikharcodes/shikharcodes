@@ -5,11 +5,11 @@
 
 <h3> About Me 💻  </h3>
 
-- 🌱 I’m currently learning: **JavaScript, Python and Machine Learning**
+- 🎓 I'm a freshman year student studying Computer Science & Engineering.
+
+- 🌱 I’m currently learning: **JavaScript, Python and Machine Learning**.
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
-
-- 🎓 I'm studying Computer Science & Engineering.
 
 - 👨🏻‍🎨 I'm also a UI/UX designer trying out my hands on creating stuff. 
 
