@@ -7,7 +7,9 @@
 
 - 🎓 I'm a freshman year student studying Computer Science & Engineering.
 
-- 🌱 I’m currently learning: **JavaScript, Python and Machine Learning**.
+- 🌱 I’m currently learning: **JavaScript, Machine Learning and Kotlin**.
+
+- ⚓ I'm also exploring and learning about **Docker** and **Kubernetes**.
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
