@@ -5,7 +5,7 @@
 
 <h3> About Me 💻  </h3>
 
-- 🎓 I'm a freshman year student studying Computer Science & Engineering.
+- 🎓 I'm a freshman year undergraduate student studying Computer Science & Engineering.
 
 - 🌱 I’m currently learning: **JavaScript, Machine Learning and Kotlin**.
 
