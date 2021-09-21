@@ -7,7 +7,7 @@
 
 - 🎓 I'm a second year undergraduate student studying Computer Science & Engineering.
 
-- 🌱 I’m currently learning: **JavaScript, Machine Learning and Kotlin**.
+- 🌱 I’m currently learning: **JavaScript, Machine Learning and Dart**.
 
 - ⚓ I'm also exploring and learning about **Docker** and **Kubernetes**.
 
