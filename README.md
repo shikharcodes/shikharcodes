@@ -5,7 +5,7 @@
 
 <h3> About Me 💻  </h3>
 
-- 🎓 I'm a second year undergraduate student studying Computer Science & Engineering.
+- 🎓 I'm a second year undergraduate student studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
 
 - 🌱 I’m currently learning: **JavaScript, Machine Learning and Dart**.
 
