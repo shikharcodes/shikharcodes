@@ -7,7 +7,7 @@
 
 - 🎓 I'm a second year undergraduate student studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
 
-- 🌱 I’m currently learning: **JavaScript, Machine Learning and Dart**.
+- 🌱 I’m currently learning: **JavaScript, Machine Learning and Golang**.
 
 - ⚓ I'm also exploring and learning about **Docker** and **Kubernetes**.
 
