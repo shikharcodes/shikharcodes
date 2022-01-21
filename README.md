@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **JavaScript, Machine Learning and Golang**.
 
-- ⚓ I'm also exploring and learning about **Docker**, **Kubernetes** and other technologies of the **Cloud Native** and **Web3** space.
+- ⚓ I'm also exploring and learning about **Docker**, **Kubernetes** and other technologies of the **Cloud Native** and **Web 3.0** space.
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
