@@ -15,7 +15,7 @@
 
 - 👨🏻‍🎨 I'm also a UI/UX designer and trying my hands on creating stuff. 
 
-- 📝 My blog page: [shikhar06](https://shikhar06.medium.com)
+- 📝 My [Blog](https://shikhar06.medium.com) page
 
 - 🖌 My [Behance](https://www.behance.net/shikharsaxena1/) profile
 
