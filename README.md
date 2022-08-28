@@ -3,11 +3,11 @@
 
 <h3> About Me 💻  </h3>
 
-- 🎓 I'm an undergraduate student in my sophomore year studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
+- 🎓 I'm an undergraduate student in my pre-final year studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
 
-- 🌱 I’m currently learning: **Deep Learning and Golang**.
+- 🌱 I’m currently learning: **Deep Learning** and **Golang**.
 
-- ⚓ I'm also exploring and learning about **Docker**, **Kubernetes** and other technologies of the **Cloud Native** and **Web 3.0** space.
+- ⚓ I'm exploring and learning about technologies of the **Cloud Native** and **Web 3.0** space.
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
 
