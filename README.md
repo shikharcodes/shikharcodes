@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikhar Saxena</h1>
+<h1 align="center">Hi, I'm Shikhar Saxena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <h3 align="center">Tech Enthusiast</h3> -->
 
 <h3> About Me 💻  </h3>
@@ -10,8 +10,6 @@
 - ⚓ I'm exploring and learning about technologies of the **Cloud Native** and **Web 3.0** space.
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects** and participating in **Hackathons**.
-
-- 👨🏻‍🎨 I'm also a UI/UX designer and trying my hands on creating stuff. 
 
 - 📝 My [Blog](https://shikhar06.medium.com) page
 
