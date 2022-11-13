@@ -25,8 +25,9 @@ I'm an undergraduate student in my pre-final year studying Computer Science & En
  - Connect with me on [Twitter](https://twitter.com/imshikhar06)
  - Shoot Me an [Email](mailto:shikhar06jan@gmail.com) 
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/shikharcodes)
-
-![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharcodes&show_icons=true&theme=tokyonight&locale=en&count_private=true)<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shikharcodes&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shikharcodes" />
+ 
+<!-- 
+![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharcodes&show_icons=true&theme=tokyonight&locale=en&count_private=true)<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shikharcodes&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shikharcodes" /> -->
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikharcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shikharcodes" /> </p>
  
