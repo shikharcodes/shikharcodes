@@ -12,7 +12,7 @@ I'm an undergraduate student in my pre-final year studying Computer Science & En
 
 - 📝 My [Blog](https://shikhar06.medium.com) page
 
-- 🖌 My [Behance](https://www.behance.net/shikharsaxena1/) profile
+<!-- - 🖌 My [Behance](https://www.behance.net/shikharsaxena1/) profile -->
 
 - 📫 For any work, please reach me here: [My email](shikhar06jan@gmail.com)
 
