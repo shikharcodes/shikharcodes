@@ -2,7 +2,7 @@
 
 I'm [Shikhar](https://github.com/shikharcodes/), a passionate self-taught full stack developer, with a strong interest in Data Science 🤖 and DevOps ⚙️ from India. 
 
-I aim to develop products that tend to impact people's lives. I ❤️ contibuting to various open source projects, which help me improve my skills, and make use of my existing knowledge to good effect.
+I aim to develop products that tend to impact people's lives. I ❤️ contributing to various open source projects, which help me improve my skills, and make use of my existing knowledge to good effect.
 
 I'm an undergraduate student in my pre-final year studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
 
