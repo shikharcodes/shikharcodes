@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Shikhar Saxena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm [Shikhar](https://github.com/shikharcodes/), a passionate self-taught full stack developer, with a strong interest in Data Science 🤖 and DevOps ⚙️ from India. 
+I'm [Shikhar](https://github.com/shikharcodes/), a passionate self-taught full-stack developer with a strong interest in Data Science 🤖 and DevOps ⚙️ from India. 
 
-I aim to develop products that tend to impact people's lives. I ❤️ contributing to various open source projects, which help me improve my skills, and make use of my existing knowledge to good effect.
+I love contributing to various open source projects, which helps me improve my skills and use my existing knowledge to good effect.
 
-I'm an undergraduate student in my pre-final year studying Computer Science & Engineering, with specialization in Artificial Intelligence and Machine Learning.
+I'm an undergraduate student in my final year studying Computer Science and Engineering, with a specialization in Artificial Intelligence and Machine Learning.
 
 - 🌱 I’m currently learning: **Deep Learning** and **Golang**.
 
